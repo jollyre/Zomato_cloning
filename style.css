@@ -1,0 +1,75 @@
+.Zomato-Logo{
+  width: 200px;
+  position: absolute;
+  margin-left: 610px ;
+  margin-top: 106px;
+  background-color: white;
+  border-radius: 16px;
+ height: 50px;
+
+}
+
+.background{
+    width: 1500px;
+    height: 300px;
+    
+}
+.search-bar{
+ border: 1px solid lightgrey;
+ width: 800px;
+ height: 40px;
+ position: absolute;
+ margin: -120px 340px;
+ background-color: white;
+ border-radius: 12px;
+ flex-direction: column;
+ display: flex;
+}
+.flexbox{
+    margin-top: 60px;
+    display: inline-flex;
+    gap: 12px;
+    justify-content: center;
+    
+    flex-wrap:wrap;
+   
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.search{
+    margin: 0px 70px;
+
+}
+.option{
+    display: inline;
+    content: icon;
+}
+.location{
+    margin: 10px 10px;
+}
+
+.search-option{
+    margin: -26px 237px;
+   
+}
+.food-img{
+    width: 100%;
+    border-radius: 16px;
+}
+.food{
+    border: 1px solid lightgray;
+    width: 300px;
+    border-radius: 14px;
+    padding: 10px;
+
+}
+.food-item{
+    padding: 80px;
+    display: inline-flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
